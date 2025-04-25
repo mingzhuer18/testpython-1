@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6956","test_open_browser","selenium","Sun Feb 09 13:30:10 CST 2025","passed","Sun Feb 09 13:30:17 CST 2025","","selenium-pytest","",""

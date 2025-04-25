@@ -1,0 +1,6 @@
+2025-02-15 10:53:35,522 - root - DEBUG - debug message
+2025-02-15 10:53:35,522 - root - ERROR - error message
+2025-02-15 10:53:35,522 - root - ERROR - exception message
+NoneType: None
+2025-02-15 10:53:35,522 - root - INFO - info message
+2025-02-15 10:53:35,522 - root - WARNING - warning message

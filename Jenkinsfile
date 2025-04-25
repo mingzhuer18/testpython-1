@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                sh 'echo "Running tests..." && sleep 3' // 替换为实际测试命令
+                sh 'echo "Running tests..." && sleep 3'
             }
         }
     }
